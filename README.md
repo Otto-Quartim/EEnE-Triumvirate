@@ -1,6 +1,6 @@
 # EEnE-Triumvirate
-A modified version of Triumvirate Compressed, to match Ed, Edd n Eddy's end credits bouncy baselines, using Tal Leming's Quantum Trigger OpenType feature for pseudorandomness.
-The random trigger code is in this website, also by Tal Leming: https://opentypecookbook.com/common-techniques/
+A modified version of Triumvirate Compressed, to match Ed, Edd n Eddy's end credits bouncy baselines, developed using TypeSupply's Quantum Trigger opentype code for a randomizing effect.
+The code is in this website: https://opentypecookbook.com/common-techniques/
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
